@@ -1,2 +1,2 @@
 cd..
-npx playwright test -g "homepage has Playwright"
+npx playwright test -g "homepage has Playwright" --debug
