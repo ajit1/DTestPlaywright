@@ -1,2 +1,2 @@
 cd..
-npx playwright test -g "homepage has Playwright" --debug
+npx playwright test -g "temp" --debug
